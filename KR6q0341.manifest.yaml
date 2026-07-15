@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0341/v1
 canonical_location: https://kanripo.org/bkk/KR6q0341/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 即休契了禪師拾遺集
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0341_000.yaml, hash: 'sha256:1c75709e4146f7fa8ce8017d2224b102076bf162cae1beb12b8c242881200524'}
-  - {seq: 1, filename: KR6q0341_001.yaml, hash: 'sha256:3118e74f44ad0124486229e37477cbc527414ae0e00b7ff472829c6fc5d2474b'}
+  - {seq: 1, filename: KR6q0341_001.yaml, hash: 'sha256:6a375199f0b9c319966a7e2a2dfbfc0902b7e8a81d95cfdcc5d909695cded1ca'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6q0341_000.markers.yaml, hash: 'sha256:af42c5dcce0292130c80db3bc1f89848aa227dc03104de15bd4f70fa2f3b6b03'}
-  - {seq: 1, role: markers, filename: assets/KR6q0341_001.markers.yaml, hash: 'sha256:39bf2654d51c38fee1e7920ec9a7a069f50b4d8a997b0348d65e3456c65dde7f'}
+  - {seq: 1, role: markers, filename: assets/KR6q0341_001.markers.yaml, hash: 'sha256:f249d4ba54697c0dc1fe5f70cadb870f334040db54ddbb4b3a7166adda10b215'}
 table_of_contents:
 - ref:
     seq: 1
@@ -1407,4 +1407,7 @@ table_of_contents:
   label: 自跋
   type: mulu
   level: 1
-hash: sha256:3c38077eaa5b3d1ea74ebcf9c318b938bf6f8122bdde3257f22eac49344d3743
+hash: sha256:8b32f7871fa2a986e0a464c049034f15b21a331875d7b678d473c054b78e26a1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
